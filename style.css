@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* Main site css file for Dennis. */
+#divWorkArea { 
+    background-color: black; 
+    border: 1px solid red; 
+    height: 450px; 
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    width: 900px; }
+#divControl { 
+    border: 1px solid blue; 
+    height: 100px; 
+    margin: 0 auto 0.5em auto; 
+    width: 150px; 
+}
+#divButtons {
+    margin-top: 19px;
+    text-align: center;
+}
+
+h1 { 
+    background-color: silver; 
+    text-align: center; }
+#imgSun {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
